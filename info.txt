@@ -1,1 +1,2 @@
 kumarrrrr
+echo "This is a new line" >> info.txt
